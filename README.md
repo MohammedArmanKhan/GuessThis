@@ -1,8 +1,3 @@
-# A Guessing Game App
-
-initialy there will be 2 text fields and 2 bottons. 
-Which will generate 2 random numbers first.
-When the user press on the text field the app will tell the correct answer with color and message(toast).
-
-
-<img src="" width=300 height=600>
+# GuessThis
+Sources: 
+1. https://youtu.be/0RLWnSG5AkU
